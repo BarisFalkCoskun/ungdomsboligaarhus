@@ -1,6 +1,6 @@
 # UngdomsboligAarhus Automation Script
 
-An automated script for managing applications and accumulating seniority on [ungdomsboligaarhus.dk](https://ungdomsboligaarhus.dk/).
+An automated script for accumulating seniority on [ungdomsboligaarhus.dk](https://ungdomsboligaarhus.dk/).
 
 ## Installation
 
