@@ -1,5 +1,5 @@
 {
-  "name": "reapply-ungdomsboligaarhus",
+  "name": "ungdomsboligaarhus",
   "version": "2.0.0",
   "main": "index.js",
   "license": "private",
@@ -9,13 +9,11 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "better-sqlite3": "^12.2.0",
+    "better-sqlite3": "^9.4.1",
     "dotenv": "^16.4.4",
-    "nodemailer": "^6.9.9",
-    "puppeteer": "^22.0.0",
-    "puppeteer-core": "^22.0.0",
+    "puppeteer": "^21.4.1",
+    "puppeteer-core": "^21.4.1",
     "puppeteer-extra": "^3.3.6",
-    "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }

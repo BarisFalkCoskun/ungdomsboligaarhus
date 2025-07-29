@@ -8,8 +8,6 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dbPath = path.join(__dirname, "logins.db");
 const db = new Database(dbPath);
 
-// chmod 700
-
 class LoginDatabase {
   static async initialize() {
     await this.createTables();
