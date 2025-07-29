@@ -233,4 +233,4 @@ $RECYCLE.BIN/
 
 package-lock.json
 yarn.lock
-**.db
+*.db
