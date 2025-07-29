@@ -1,0 +1,21 @@
+{
+  "name": "reapply-ungdomsboligaarhus",
+  "version": "2.0.0",
+  "main": "index.js",
+  "license": "private",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "dotenv": "^16.4.4",
+    "nodemailer": "^6.9.9",
+    "puppeteer": "^22.0.0",
+    "puppeteer-core": "^22.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
